@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/teodor/catkin_ws/src/pico_zense_camera/include/pico_zense_camera/PicoZense_api.h
+PicoZense_define.h
+/home/teodor/catkin_ws/src/pico_zense_camera/include/pico_zense_camera/PicoZense_define.h
+
+/home/teodor/catkin_ws/src/pico_zense_camera/include/pico_zense_camera/PicoZense_define.h
+PicoZense_enums.h
+/home/teodor/catkin_ws/src/pico_zense_camera/include/pico_zense_camera/PicoZense_enums.h
+PicoZense_types.h
+/home/teodor/catkin_ws/src/pico_zense_camera/include/pico_zense_camera/PicoZense_types.h
+
+/home/teodor/catkin_ws/src/pico_zense_camera/include/pico_zense_camera/PicoZense_enums.h
+
+/home/teodor/catkin_ws/src/pico_zense_camera/include/pico_zense_camera/PicoZense_types.h
+stdint.h
+-
+PicoZense_enums.h
+/home/teodor/catkin_ws/src/pico_zense_camera/include/pico_zense_camera/PicoZense_enums.h
+
+/home/teodor/catkin_ws/src/pico_zense_camera/src/pico_zense_camera/FrameViewer.cpp
+iostream
+-
+fstream
+-
+opencv2/opencv.hpp
+-
+PicoZense_api.h
+/home/teodor/catkin_ws/src/pico_zense_camera/src/pico_zense_camera/PicoZense_api.h
+

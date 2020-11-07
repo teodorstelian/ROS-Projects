@@ -1,0 +1,8 @@
+prefix=/home/teodor/ws/turtlebot3/devel
+
+Name: hls_lfcd_lds_driver
+Description: Description of hls_lfcd_lds_driver
+Version: 1.1.1
+Cflags: -I/home/teodor/ws/turtlebot3/src/hls_lfcd_lds_driver/include -I/usr/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs

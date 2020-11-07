@@ -1,0 +1,15 @@
+<package>
+  <description brief="my_layer">
+
+     my_layer
+
+  </description>
+  <author>Teodor</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/my_layer</url>
+  <depend package="pcl_ros"/>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+
+</package>

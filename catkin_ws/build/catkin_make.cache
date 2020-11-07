@@ -1,0 +1,2 @@
+amr-ros-config/description:amr-ros-config/gazebo:amr-ros-config/launch:depthimage_to_laserscan:openni2_camera/openni2_camera:openni2_camera/openni2_launch:p3dx_navigation:pico_zense_camera:robot_setup_tf:rosaria:sicktoolbox:sicktoolbox_wrapper:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/teodor/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/teodor/catkin_ws/install -G Unix Makefiles

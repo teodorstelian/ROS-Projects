@@ -1,0 +1,30 @@
+{
+ "name": "ping",
+  "graph": {
+    "nodes": [
+      {
+        "name": "ping",
+        "components": [
+          {
+            "name": "message_ledger",
+            "type": "isaac::alice::MessageLedger"
+          },
+          {
+            "name": "ping",
+            "type": "Ping"
+          }
+         ]
+      }
+    ],
+    "edges": []
+},
+ "config": {
+    "ping" : {
+      "ping" : {
+	"message": "Buna seara prieteni!",
+        "tick_period" : "1Hz"
+      }
+    }
+  }
+
+}
